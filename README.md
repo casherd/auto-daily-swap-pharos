@@ -1,0 +1,1 @@
+# auto-daily-swap-pharos
